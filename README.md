@@ -45,6 +45,12 @@ pipeline {
     }
 }
 
-✅ Output
+
+### 🖼️ Screenshot of Pipeline Output
 
 ![Jenkins Pipeline Output](pipeline-output.png)
+
+> Or view it directly:  
+[Click to view full screenshot](https://raw.githubusercontent.com/AlbiinShaji/ci-demo/main/pipeline-output.png)
+
+
